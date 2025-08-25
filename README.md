@@ -33,10 +33,7 @@ The below categories form part of the audit checklist:
 
 
 ## Sources / Reference Materials
-(https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
-- [Controls and Compliance Checklist Template](GOOGLE_LINK_HERE)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [OWASP Security Principles](https://owasp.org/www-project-top-ten/)
+-All have been uploaded
 
 ---
 
