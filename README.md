@@ -33,7 +33,7 @@ The below categories form part of the audit checklist:
 
 
 ## Sources / Reference Materials
--All have been uploaded
+-All have been uploaded and the reference materials were provied by the Google CyberSecurity Certificate Course.
 
 ---
 
